@@ -76,7 +76,7 @@ Building modern web apps using React and Node.js.
 
 <p align="center">
 
-<a href="https://linkedin.com/](https://www.linkedin.com/in/minuka-jayawardana/">
+<a href="https://www.linkedin.com/in/minuka-jayawardana/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
