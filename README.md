@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Minuka Jayawardana</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=900&lines=Machine+Learning+Developer;Software+Engineer;Data+Science+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=900&lines=Machine+Learning+Developer;Software+Developer;Data+Science+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects+🚀" />
 </p>
 
 ---
@@ -39,9 +39,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Minuka-Jayawardana&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minuka-Jayawardana&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -49,13 +49,13 @@
 
 # 🔥 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Minuka-Jayawardana&theme=tokyo-night"/>
 
 ---
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Minuka-Jayawardana/Minuka-Jayawardana/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -76,15 +76,15 @@ Building modern web apps using React and Node.js.
 
 <p align="center">
 
-<a href="https://linkedin.com/">
+<a href="https://linkedin.com/](https://www.linkedin.com/in/minuka-jayawardana/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:minukaj04@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Minuka-Jayawardana">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
