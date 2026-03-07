@@ -13,6 +13,7 @@
 💻 Passionate about **building real-world software solutions**  
 🚀 Always exploring new technologies and improving my skills  
 🎵 Musician — Oboe Player  
+🔫 Pistol Shooter
 
 ---
 
