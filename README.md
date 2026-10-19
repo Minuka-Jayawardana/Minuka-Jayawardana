@@ -12,7 +12,7 @@
 🤖 Interested in **Machine Learning, AI, and Data Science**  
 💻 Passionate about **building real-world software solutions**  
 🚀 Always exploring new technologies and improving my skills  
-🎵 Musician — Oboe Player and chorister  
+🎵 Musician - Oboe Player and chorister  
 🔫 National Pistol Shooter
 
 ---
